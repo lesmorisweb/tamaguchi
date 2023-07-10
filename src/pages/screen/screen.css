@@ -1,0 +1,13 @@
+
+.screen{
+    background-color: cadetblue;
+    height: 100vh;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.infoSection{
+    display: flex;
+    flex-direction: row;
+}
